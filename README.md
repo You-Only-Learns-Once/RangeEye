@@ -112,7 +112,7 @@ cv2.putText(...)
 
 ## 🧑‍💻 Author
 
-**[Srijan Prasad](https://github.com/<srijanprasad>)**
+**[srijanprasad](https://github.com/<srijanprasad>)**
 📧 Feel free to reach out for collaboration or suggestions.
 
 ---
